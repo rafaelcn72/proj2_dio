@@ -2,30 +2,8 @@
 <h3 align="center">
 	Background jobs in Node.js with Redis.
 </h3>
-<h4 align="center">
-https://www.youtube.com/watch?v=mRHpgEF5JGU
-</h4>
 <p align="center">
 Projeto "Background jobs in Node.js with Redis" elaborado no Bootcamp SPTech Desenvolvimento Fullstack - Digital Innovation One. Criado a partir do Webinar do Dev Roberto Sousa.</p>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/background-jobs-class-by-dio.svg">
-  
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/robertosousa1/background-jobs-class-by-dio.svg">
-  
-  <a href="https://www.codacy.com/app/robertosousa1/background-jobs-class-by-dio?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=robertosousa1/background-jobs-class-by-dio&amp;utm_campaign=Badge_Grade">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/70c8e79c83b442278f6c276ebf117ae4.svg">
-  </a>
-
-  
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/robertosousa1/background-jobs-class-by-dio.svg">
-  <a href="https://github.com/robertosousa1/background-jobs-class-by-dio/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/robertosousa1/background-jobs-class-by-dio.svg">
-  </a>
-  
-  <a href="https://github.com/robertosousa1/background-jobs-class-by-dio/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/robertosousa1/background-jobs-class-by-dio.svg">
-  </a>
-</p>
 
 <p align="center">
 <a href="#rocket-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
