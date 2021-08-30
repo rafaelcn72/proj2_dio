@@ -43,6 +43,3 @@ This project is under the MIT license. See the [LICENSE](https://github.com/robe
 
 ----------
 
-Made with by Roberto Sousa  👋  [Get in touch!](https://www.linkedin.com/in/robertosousa01/)
-
-
