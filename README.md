@@ -6,8 +6,7 @@
 https://www.youtube.com/watch?v=mRHpgEF5JGU
 </h4>
 <p align="center">
-In this video we talk about background tasks in Node.js with Redis, using a library called Bull for prioritizing processes, monitoring events, number of simultaneous processes, in addition to working in separate threads in the application.
-</p>
+Projeto "Background jobs in Node.js with Redis" elaborado no Bootcamp SPTech Desenvolvimento Fullstack - Digital Innovation One. Criado a partir do Webinar do Dev Roberto Sousa.</p>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/robertosousa1/background-jobs-class-by-dio.svg">
   
